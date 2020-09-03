@@ -1,3 +1,5 @@
 # tdaADOS
 TDA autism severity regression
-After computing persistence diagrams, run loaddata.m, then run test_kernel2.m
+To generate kernels from persistence diagrams: After computing persistence diagrams, run loaddata.m, then run test_kernel2.m
+To run kernel PLS on generated kernesl: runKernelPLSLOOCV.r
+
